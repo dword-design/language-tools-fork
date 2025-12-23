@@ -1,6 +1,6 @@
 {
-	"name": "@vue/language-core",
-	"version": "3.2.1",
+	"name": "@dword-design/vue-language-core-fork",
+	"version": "0.0.1",
 	"license": "MIT",
 	"files": [
 		"**/*.js",
